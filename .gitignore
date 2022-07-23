@@ -83,4 +83,4 @@ __pycache__/
 *$py.class
 
 #csvファイルはいらない
-*csv
+# *csv
